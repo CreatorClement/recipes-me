@@ -1,6 +1,5 @@
 tomatoes
-inion
-hot sauce
+inione
 lettuce 
 
 
